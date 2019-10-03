@@ -1,0 +1,27 @@
+p {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 0px;
+    margin-left: 10px;
+
+    font-size: 20px;
+
+    word-wrap: normal
+
+  }
+title{
+font-size: 30px;
+font: larger
+
+
+}
+h2{
+    background-color: rgb(203, 243, 247);
+    padding: 5px 1px;
+}
+h3{
+    background-color: rgb(210, 237, 240);
+    padding: 5px 1px;
+    font-size: 23px
+
+}
